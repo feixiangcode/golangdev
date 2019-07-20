@@ -9,7 +9,7 @@
 - [Go开发手册-腾讯云](https://cloud.tencent.com/developer/doc/1101)
 
 - [golang入门文档 ★30k+](https://github.com/astaxie/build-web-application-with-golang) - golang入门文档,beego作者书写
-- [Go实战开发 ★3k+](https://github.com/astaxie/build-web-application-with-golang) - golang最佳实践【未完】,beego作者书写
+- [Go实战开发 ★3k+](https://github.com/astaxie/go-best-practice) - golang最佳实践【未完】,beego作者书写
 
 ## 软件
 
